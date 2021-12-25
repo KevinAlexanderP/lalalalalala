@@ -19,8 +19,11 @@
     "@angular/platform-browser": "~11.0.6",
     "@angular/platform-browser-dynamic": "~11.0.6",
     "@angular/router": "~11.0.6",
+    "@angular/service-worker": "~11.0.6",
+    "http-server": "^14.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "web-push": "^3.4.5",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
