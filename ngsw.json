@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1640417603822,
+  "index": "https://kevinalexanderp.github.io/lalalalalala/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://kevinalexanderp.github.io/lalalalalala/favicon.ico",
+        "https://kevinalexanderp.github.io/lalalalalala/index.html",
+        "https://kevinalexanderp.github.io/lalalalalala/main.f8bebe3aa54f92c99702.js",
+        "https://kevinalexanderp.github.io/lalalalalala/manifest.webmanifest",
+        "https://kevinalexanderp.github.io/lalalalalala/polyfills.8c151b8375e767ff858f.js",
+        "https://kevinalexanderp.github.io/lalalalalala/runtime.0e49e2b53282f40c8925.js",
+        "https://kevinalexanderp.github.io/lalalalalala/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-128x128.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-144x144.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-152x152.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-192x192.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-384x384.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-512x512.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-72x72.png",
+        "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-128x128.png": "9971dff659b7989a74972075b106b03d5dbf2859",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-144x144.png": "b610ee0411bb4bb0951b60fd5502d2c187b24817",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-152x152.png": "1d0a342d42344038f25434f03860601050f9b3b3",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-192x192.png": "a1018903b51bb54696f08fc1dbabb077d7d4e6b5",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-384x384.png": "6a4a4099d31f0a92fdba6391b0feaa5b7f921b34",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-512x512.png": "9ef95d8bba73d4f3e6b3d111048e600e59d7b564",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-72x72.png": "c60959475dba9ddb6ccbd43229e288e22c810323",
+    "https://kevinalexanderp.github.io/lalalalalala/assets/icons/icon-96x96.png": "1b4acb234f85798aa239e87480f0863287879857",
+    "https://kevinalexanderp.github.io/lalalalalala/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://kevinalexanderp.github.io/lalalalalala/index.html": "420898c9c7efe4e5f7315e36528d4d6ca306814d",
+    "https://kevinalexanderp.github.io/lalalalalala/main.f8bebe3aa54f92c99702.js": "5acc877da77cf674ad77782622a39e3a9a61dde7",
+    "https://kevinalexanderp.github.io/lalalalalala/manifest.webmanifest": "32bb1e8f57769b3820c5f051949ecc7b38a716a9",
+    "https://kevinalexanderp.github.io/lalalalalala/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "https://kevinalexanderp.github.io/lalalalalala/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://kevinalexanderp.github.io/lalalalalala/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
